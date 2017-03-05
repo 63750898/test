@@ -1,0 +1,276 @@
+<TABLE style="WIDTH: 266pt; BORDER-COLLAPSE: collapse; TABLE-LAYOUT: fixed"cellSpacing=0 cellPadding=0 width=354 border=0 x:str>
+            <COLGROUP>
+                <COL class=xnbk style="mso-width-source: userset; mso-width-alt: 600" width=14>
+                <COL class=xnbk style="mso-width-source: userset; mso-width-alt: 1000" width=28>
+                <COL class=xnbk style="mso-width-source: userset; mso-width-alt: 2200" width=70>
+                <COL class=xnbk style="mso-width-source: userset; mso-width-alt: 1800" width=56>
+                <COL class=xnbk style="mso-width-source: userset; mso-width-alt: 2200" width=70>
+                <COL class=xnbk style="mso-width-source: userset; mso-width-alt: 2200" width=70>
+                <COL class=xnbk style="mso-width-source: userset; mso-width-alt: 800" width=21>
+                <COL class=xnbk style="mso-width-source: userset; mso-width-alt: 2200" width=70>
+                <COL class=xnbk style="mso-width-source: userset; mso-width-alt: 2200" width=70>
+                <COL class=xnbk style="mso-width-source: userset; mso-width-alt: 2200" width=70>
+                <COL class=xnbk style="mso-width-source: userset; mso-width-alt: 2200" width=70>
+                <COL class=xnbk style="mso-width-source: userset; mso-width-alt: 600" width=14>
+                <TBODY>
+                    <TR>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk style="TEXT-ALIGN: center" colSpan=11 align=center>
+                            &nbsp;
+                        </TD>
+                    </TR>
+                    <TR>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk style="TEXT-ALIGN: center" colSpan=11
+                            align=center>
+                            [HotelName]
+                        </TD>
+                    </TR>
+                    <TR>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk style="TEXT-ALIGN: center" colSpan=11
+                            align=center>
+                            [HotelAddress]
+                        </TD>
+                    </TR>
+                    <TR>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk style="TEXT-ALIGN: center" colSpan=11
+                            align=center>
+                            [HotleTel]
+                        </TD>
+                    </TR>
+                    <TR>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk style="TEXT-ALIGN: center" colSpan=12
+                            align=center>
+                            [HotelFax]
+                        </TD>
+                    </TR>
+                    <TR style="HEIGHT: 11.25pt; mso-height-source: userset">
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk colSpan=12 align=left></TD>
+                    </TR>
+                    <TR>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk style="FONT-SIZE: 12pt; TEXT-ALIGN: center" colSpan=12
+                            align=center>
+                            <B>PURCHASE&nbsp;ORDER</B>
+                        </TD>
+                    </TR>
+                    <TR style="HEIGHT: 11.25pt; mso-height-source: userset">
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk colSpan=12 align=left></TD>
+                    </TR>
+                    <TR>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            colSpan=5 align=left>
+                            VENDOR:&nbsp;&nbsp;[SupplierCode].[SupplierName]
+                        </TD>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            colSpan=5 align=left>
+                            PO&nbsp;NO:&nbsp;[OrderCode]
+                        </TD>
+                    </TR>
+                    <TR>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            colSpan=5
+                            align=left>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </TD>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            colSpan=5 align=left>
+                            DATE:&nbsp;[OrderDate]
+                        </TD>
+                    </TR>
+                    <TR>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            colSpan=5
+                            align=left>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </TD>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            colSpan=5 align=left>
+                            ML&nbsp;Requisition&nbsp;No:&nbsp;[PRCode]
+                        </TD>
+                    </TR>
+                    <TR>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            colSpan=5
+                            align=left>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </TD>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            colSpan=5 align=left>
+                            Department:&nbsp;[DepCode]&nbsp;[DepName]
+                        </TD>
+                    </TR>
+                    <TR>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            colSpan=5
+                            align=left>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </TD>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            colSpan=5 align=left>
+                            &nbsp;
+                        </TD>
+                    </TR>
+                    <TR style="HEIGHT: 11.25pt; mso-height-source: userset">
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            colSpan=5
+                            align=left>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </TD>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            colSpan=5 align=left></TD>
+                    </TR>
+                    <TR>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            colSpan=5
+                            align=left>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tel:&nbsp;[SupplierTel]
+                        </TD>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            colSpan=5 align=left>
+                            DELIVERY&nbsp;DATE:[ArriverDate]
+                        </TD>
+                    </TR>
+                    <TR style="HEIGHT: 11.25pt; mso-height-source: userset">
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            colSpan=5
+                            align=left>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fax:&nbsp;[SupplierFax]
+                        </TD>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            colSpan=5 align=left></TD>
+                    </TR>
+                    <TR style="HEIGHT: 11.25pt; mso-height-source: userset">
+                        <TD class=xnbk align=left></TD>
+                    </TR>
+                    <TR>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xbk style="TEXT-ALIGN: center" align=center>No.</TD>
+                        <TD class=xbk style="TEXT-ALIGN: center" align=center>Quantity</TD>
+                        <TD class=xbk style="TEXT-ALIGN: center" align=center>Unit</TD>
+                        <TD class=xbk style="TEXT-ALIGN: center" align=center>Article&nbsp;No</TD>
+                        <TD class=xbk style="TEXT-ALIGN: center" colSpan=4
+                            align=center>
+                            Description
+                        </TD>
+                        <TD class=xbk style="TEXT-ALIGN: center"
+                            align=center>
+                            Unit&nbsp;Cost<BR>Tax&nbsp;Rate
+                        </TD>
+                        <TD class=xbk style="TEXT-ALIGN: center" colSpan=2
+                            align=center>
+                            Amount/TAX
+                        </TD>
+                    </TR>
+                    {
+                    <TR>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-RIGHT: windowtext 0.5pt solid; TEXT-ALIGN: center; BORDER-LEFT: windowtext 0.5pt solid" align=center>
+                            [No]
+                        </TD>
+                        <TD class=xnbk style='BORDER-RIGHT: windowtext 0.5pt solid; TEXT-ALIGN: right; BORDER-LEFT: windowtext 0.5pt solid;' align=right>
+                            [Quantity]
+                        </TD>
+                        <TD class=xnbk style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid" align=left>
+                            [Unit]
+                        </TD>
+                        <TD class=xnbk style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid" align=left>
+                            [ArticleCode]
+                        </TD>
+                        <TD class=xnbk style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid" colSpan=4 align=left>
+                            [ArticleCName]&nbsp;[ArticleEname].
+                        </TD>
+                        <TD class=xnbk style="BORDER-RIGHT: windowtext 0.5pt solid; TEXT-ALIGN: right; BORDER-LEFT: windowtext 0.5pt solid" align=right>
+                            [Price]<BR>[Vat]%
+                        </TD>
+                        <TD class=xnbk style="BORDER-RIGHT: windowtext 0.5pt solid; TEXT-ALIGN: right; BORDER-LEFT: windowtext 0.5pt solid" colSpan=2 align=right>
+                            [TotalPrice]<BR>[VatValue]
+                        </TD>
+                    </TR>
+                    }
+                    <TR style="HEIGHT: 45pt; mso-height-source: userset">
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            colSpan=4
+                            align=left>
+                            Total&nbsp;Taxable&nbsp;Charges:<BR>GST:<BR>Non&nbsp;Taxable&nbsp;Charges:<BR>Total&nbsp;Charges:
+                        </TD>
+                        <TD class=xnbk style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid" align=left></TD>
+                        <TD class=xnbk style="BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; TEXT-ALIGN: right; BORDER-LEFT: windowtext 0.5pt solid" colSpan=2 align=right>
+                            [TotalTaxableCharges]<BR>[GST]<BR>[NonTaxableCharges]<BR>[TotalALL]
+                        </TD>
+                    </TR>
+                    <TR>
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            colSpan=11 align=left>
+                            REMARKS:&nbsp;[Note]
+                        </TD>
+                    </TR>
+                    <TR style="HEIGHT: 11.25pt; mso-height-source: userset">
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk
+                            style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid"
+                            colSpan=11 align=left></TD>
+                    </TR>
+                    <TR style="HEIGHT: 33.75pt; mso-height-source: userset">
+                        <TD class=xnbk align=left></TD>
+                        <TD class=xnbk colSpan=11
+                            align=left>
+                            <BR><BR>Purchasing&nbsp;Clerk&nbsp;采购员:_______________&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Purchasing&nbsp;Manager&nbsp;采购经理:_______________
+                        </TD>
+                    </TR>
+                </TBODY>
+        </TABLE>
